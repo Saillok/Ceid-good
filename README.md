@@ -1,2 +1,2 @@
-# Ceid-good
+# The Project
 The Project in Java

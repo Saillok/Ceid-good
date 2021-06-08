@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RequestDonation
+comment1.params=x\ y
+comment1.target=RequestDonation(Entity,\ double)
+comment2.params=
+comment2.target=Entity\ getEntity()
+comment3.params=
+comment3.target=double\ getQuantity()
+comment4.params=x
+comment4.target=void\ setQuantity(double)
+comment5.params=
+comment5.target=Beneficiary\ getBeneficiary()
+numComments=6

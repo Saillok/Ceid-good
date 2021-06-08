@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=org
+comment1.target=Menu(Organization)
+comment2.params=
+comment2.target=void\ Login()
+comment3.params=p
+comment3.target=void\ DonatorMenu(int)
+comment4.params=p
+comment4.target=void\ BeneficiaryMenu(int)
+comment5.params=p
+comment5.target=void\ AdminMenu(int)
+numComments=6

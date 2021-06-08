@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=x\ t\ z
+comment1.target=Entity(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getEntityInfo()
+comment3.params=
+comment3.target=java.lang.String\ getDetails()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=int\ getID()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=x
+comment7.target=double\ getLevel(int)
+numComments=8
